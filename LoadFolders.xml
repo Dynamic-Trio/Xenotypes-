@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+	<v1.4>
+		<li>/</li>
+		<li>1.4</li>
+		<li IfModActive="morebiotechstylexenotypes.mod">1.4/Mods/BiotechStyleXenos</li>
+		<li IfModActive="sarg.alphabiomes">1.4/Mods/AlphaBiomes</li>
+		<li IfModActive="sarg.alphagenesvfei">1.4/Mods/Insectoid/AG_Mutations</li>
+		<li IfModActive="rome.insectoid">1.4/Mods/Insectoid/InsectoidGenes</li>
+	</v1.4>
+</loadFolders>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]/iconPath</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]</xpath>
+      <value>
+        <iconPath />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]/iconPath</xpath>
+    <value>
+      <iconPath>UI/Icons/Xenotypes/Custom/VBE_CustomXenotypeIcon42</iconPath>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]/inheritable</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]</xpath>
+      <value>
+        <inheritable />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]/inheritable</xpath>
+    <value>
+      <inheritable>true</inheritable>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]/label</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]</xpath>
+      <value>
+        <label />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]/label</xpath>
+    <value>
+      <label>Frost Jotun</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]/genes</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]</xpath>
+      <value>
+        <genes />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="BS_FrostJotunInBlue"]/genes</xpath>
+    <value>
+      <genes>
+        <li>BS_ColdGenerator</li>
+        <li>Deathless</li>
+        <li>AG_Foodless</li>
+        <li>BS_JotunArchiteMetabolism</li>
+        <li>TotalHealing</li>
+        <li>Jotun_Horns_Small</li>
+        <li>JotunFrame</li>
+        <li>EBSG_CavernousStomach</li>
+        <li>EBSG_ArchiteDigestion</li>
+        <li>EBSG_StrongArchiteMetabolism</li>
+        <li>Immunity_SuperStrong</li>
+        <li>EBSG_MajorArchiteWoundHealing</li>
+        <li>EBSG_ExtremeBloodClotting</li>
+        <li>BS_SlowBleeding</li>
+        <li>AG_GeneInfectionImmunity</li>
+        <li>MaxTemp_SmallDecrease</li>
+        <li>EBSG_MinorElementalProtection</li>
+        <li>BS_AnimalFriend</li>
+        <li>BS_Bloodlust</li>
+        <li>Aggression_Aggressive</li>
+        <li>AG_InnerPeace</li>
+        <li>AG_Rowdy</li>
+        <li>Robust</li>
+        <li>BS_EverFertile</li>
+        <li>VRE_LongPregnancy</li>
+        <li>VRE_EarlyMaturity</li>
+        <li>Body_Standard</li>
+        <li>BS_HairPermafrost</li>
+        <li>BS_SkinPermafrost</li>
+        <li>Unstoppable</li>
+        <li>AptitudePoor_Cooking</li>
+        <li>AptitudeTerrible_Plants</li>
+        <li>AptitudePoor_Artistic</li>
+        <li>AptitudePoor_Intellectual</li>
+      </genes>
+    </value>
+  </Operation>
+</Patch>

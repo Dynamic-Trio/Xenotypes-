@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Pincoid"]/iconPath</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Pincoid"]</xpath>
+      <value>
+        <iconPath />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Pincoid"]/iconPath</xpath>
+    <value>
+      <iconPath>UI/Icons/Xenotypes/Custom/VBE_CustomXenotypeIcon60</iconPath>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Pincoid"]/inheritable</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Pincoid"]</xpath>
+      <value>
+        <inheritable />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Pincoid"]/inheritable</xpath>
+    <value>
+      <inheritable>true</inheritable>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Pincoid"]/label</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Pincoid"]</xpath>
+      <value>
+        <label />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Pincoid"]/label</xpath>
+    <value>
+      <label>pincoid</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Pincoid"]/genes</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Pincoid"]</xpath>
+      <value>
+        <genes />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Pincoid"]/genes</xpath>
+    <value>
+      <genes>
+        <li>EBSG_ExtremelyFastAging</li>
+        <li>Nearsighted</li>
+        <li>BS_EverFertile</li>
+        <li>VRESaurids_Oviparous</li>
+        <li>AboveAverageFertility</li>
+        <li>VRE_EarlyMaturity</li>
+        <li>Hair_BaldOnly</li>
+        <li>Beard_NoBeardOnly</li>
+        <li>RH_Mandibles</li>
+        <li>Body_Standard</li>
+        <li>Skin_InkBlack</li>
+        <li>EBSG_ConstructionHyper</li>
+        <li>VRESaurids_ColdBlooded</li>
+        <li>RH_Feelers</li>
+        <li>AptitudeTerrible_Shooting</li>
+        <li>AptitudeRemarkable_Construction</li>
+        <li>AptitudeStrong_Mining</li>
+        <li>AptitudeRemarkable_Crafting</li>
+      </genes>
+    </value>
+  </Operation>
+</Patch>

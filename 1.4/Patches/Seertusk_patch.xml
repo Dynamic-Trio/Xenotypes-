@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Seertusk"]/iconPath</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Seertusk"]</xpath>
+      <value>
+        <iconPath />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Seertusk"]/iconPath</xpath>
+    <value>
+      <iconPath>UI/Icons/Xenotypes/Custom/VBE_RemixedCustom3</iconPath>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Seertusk"]/inheritable</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Seertusk"]</xpath>
+      <value>
+        <inheritable />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Seertusk"]/inheritable</xpath>
+    <value>
+      <inheritable>true</inheritable>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Seertusk"]/label</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Seertusk"]</xpath>
+      <value>
+        <label />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Seertusk"]/label</xpath>
+    <value>
+      <label>Seertusk</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Seertusk"]/genes</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Seertusk"]</xpath>
+      <value>
+        <genes />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Seertusk"]/genes</xpath>
+    <value>
+      <genes>
+        <li>BTEMa_NoseElephant</li>
+        <li>BTEMa_ElephantEars</li>
+        <li>BTEMa_TailElephant</li>
+        <li>BTEMa_PsychicFuryNeedle</li>
+        <li>BTEMa_ElephantMemory</li>
+        <li>BTEMa_FatalToxWeakness</li>
+        <li>EBSG_NarrowStomach</li>
+        <li>Immunity_Strong</li>
+        <li>WoundHealing_Slow</li>
+        <li>PsychicAbility_Extreme</li>
+        <li>MoveSpeed_Slow</li>
+        <li>VRE_Distressed</li>
+        <li>Mood_Pessimist</li>
+        <li>EBSG_SomewhatStubborn</li>
+        <li>Aggression_DeadCalm</li>
+        <li>Sleepy</li>
+        <li>Pain_Reduced</li>
+        <li>Beard_NoBeardOnly</li>
+        <li>Body_Fat</li>
+        <li>Body_Hulk</li>
+        <li>Skin_LightGray</li>
+        <li>Unstoppable</li>
+        <li>AptitudeStrong_Medicine</li>
+        <li>AptitudeStrong_Social</li>
+        <li>AptitudeStrong_Intellectual</li>
+      </genes>
+    </value>
+  </Operation>
+</Patch>

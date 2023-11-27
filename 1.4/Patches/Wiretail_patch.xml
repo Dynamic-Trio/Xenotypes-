@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Wiretail"]/iconPath</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Wiretail"]</xpath>
+      <value>
+        <iconPath />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Wiretail"]/iconPath</xpath>
+    <value>
+      <iconPath>UI/Icons/Xenotypes/Custom/VBE_RemixedCustom9</iconPath>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Wiretail"]/inheritable</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Wiretail"]</xpath>
+      <value>
+        <inheritable />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Wiretail"]/inheritable</xpath>
+    <value>
+      <inheritable>true</inheritable>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Wiretail"]/label</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Wiretail"]</xpath>
+      <value>
+        <label />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Wiretail"]/label</xpath>
+    <value>
+      <label>wiretail</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/XenotypeDef[defName="Wiretail"]/genes</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/XenotypeDef[defName="Wiretail"]</xpath>
+      <value>
+        <genes />
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/XenotypeDef[defName="Wiretail"]/genes</xpath>
+    <value>
+      <genes>
+        <li>BTEMa_SharpClaws</li>
+        <li>BTEMa_RatEars</li>
+        <li>BTEMa_NoseShort</li>
+        <li>BTEMa_Tail_Rat</li>
+        <li>BTEMa_SensitiveWhiskers</li>
+        <li>WoundHealing_Slow</li>
+        <li>MoveSpeed_Quick</li>
+        <li>MBSG_MeleeDamage_Abysmal</li>
+        <li>AG_Rowdy</li>
+        <li>VRE_SlowShooter</li>
+        <li>Pain_ExtremeExtra</li>
+        <li>Hair_SnowWhite</li>
+        <li>Skin_SheerWhite</li>
+        <li>Furskin</li>
+        <li>AptitudeStrong_Mining</li>
+        <li>AptitudeStrong_Crafting</li>
+        <li>AG_MiningYield_High</li>
+      </genes>
+    </value>
+  </Operation>
+</Patch>
