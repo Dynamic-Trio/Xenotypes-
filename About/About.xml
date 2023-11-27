@@ -159,11 +159,6 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 			<displayName>Gender Ratio Genes</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3089173425</steamWorkshopUrl>
 		</li>
-		<li>
-			<packageId>redmattis.bigsmall.core</packageId>
-			<displayName>Big and Small Genes</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2920751126</steamWorkshopUrl>
-		</li>
 
 		
 	</modDependencies>
