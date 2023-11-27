@@ -1,2 +1,7 @@
 V 1.0.0
 Initial Upload
+V 1.0.1
+Fixed some errors
+Updated Patches
+Removed 1 requirment
+Tried to determine how to make this mod more modular
