@@ -1,7 +1,16 @@
-V 1.0.0
+V 0.0.0
 Initial Upload
-V 1.0.1
+V 0.0.1
+
 Fixed some errors
 Updated Patches
 Removed 1 requirment
 Tried to determine how to make this mod more modular
+
+V 0.0.2
+Removed many requirments
+Made much more modular
+Updated description
+Put the FAQ in a discussion
+Put the list of compatible mods in a discussion
+Put the text of both the description, FAQ, and planned compatibility in a file in this mod
