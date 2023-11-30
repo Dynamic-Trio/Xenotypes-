@@ -6,10 +6,11 @@
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
-	<description>This realitivly simple mod works in 2 stages. Stage 1 is making new xenotypes with the required mods. Stage 2 is making modifying xenotypes from the other mods, to make them balence together as a pack better. A seperate mod will proceed to patch all these ones together, and add in more miscilaneus genes+ new ones.
+	<description>This realitivly simple mod is the basis of many enhancments to other mods. It starts with Xenotypes Expanded and Merged, which is designed to patch many xenos to be integrated and more in-line with one another, along with a few miscilaneus patches. The next group of mods slowly but surley enhances the mods, adding in multiple new mods, as well as creating its own genes. The final mod requires all the previous ones, and patches them to work seamlesly together. Perfect, eh?
 
-The mods it has extra features for is are:
+The mods it has extra xenos are: 
 
+Mods with planned (in no specific order) extra features are: 
 1.[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2977454722]More Biotech Style Xenotypes[/url]
 2.[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2880864500]Biotech-Insectoid Genes[/url]
 3.[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2901424072]Vanilla Races Expanded - Genie[/url]
@@ -22,9 +23,25 @@ The mods it has extra features for is are:
 10.[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2995385834]Vanilla Races Expanded - Archon[/url]
 11.[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2880990495]Vanilla Races Expanded - Saurid[/url]
 12.[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963116383]Vanilla Races Expanded - Sanguophage[/url]
+13. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2878084431]Biotech Expansion - Mammalia[/url]
+14. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883216840]Biotech Expansion - Mythic[/url]
+15. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2894397737]Big and Small Races[/url]
+16. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3027202907]Big and Small - Slimes[/url]
+17. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2926556467]Vampires, Demons, & Undead[/url]
+18. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2908225858]Lamias, Sirens, Snakemen, and other Serpents-like beings[/url]
+19. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2971803439]Roo's Satyr Xenotype[/url]
+20. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2927812651]Roo's Minotaur Xenotype[/url]
+21. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2971801826]Roo's Faun Xenotype[/url]
+22. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2906193379]Alpha Genes - Insectoid Mutations[/url]
+23. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3013408395]Tox dependency genes[/url]
+24. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3030775138]Hunterphage Xenotype[/url]
+25. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2997308585]Nephilim Xenotype[/url]
+26. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2902788054]Xenotype Pack - Exoplanet Adaptation[/url]
+27. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2902787724]Xenotype Pack - Spacers[/url]
+28. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3088653906]Superhero Genes - Villans and Steroetypes[/url]
+29. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3073163708]Nekomata, Giant Oni, and other Yokai[/url]
 
-
-
+P.S. If you are using many of these mods together, you might want to consider using the mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838035829]Scrollable Gizmos[/url] to assist you
 FAQ
 Q: CE Compatible?
 A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
@@ -36,7 +53,11 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
 			<displayName>Biotech</displayName>
 		</li>
-
+		<li>
+			<packageId>ludeon.rimworld.royalty</packageId>
+			<displayName>Royalty</displayName>
+		</li>
+		
 		<li>
 			<packageId>tdt.core</packageId>
 			<displayName>The Dynamic Trio Core</displayName>
@@ -49,20 +70,14 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 			<steamWorkshopUrl>hhttps://steamcommunity.com/sharedfiles/filedetails/?id=2883414707</steamWorkshopUrl>
 		</li>
 		<li>
+			<packageId>sov.homelander</packageId>
+			<displayName>Biotech Gene: Laser-Eyes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2897565210</steamWorkshopUrl>
+		</li>
+		<li>
 			<packageId>biotexpans.core</packageId>
 			<displayName>Biotech Expansion - Core</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2884018485</steamWorkshopUrl>
-		</li>
-		<li>
-			<packageId>biotexpans.mammalia</packageId>
-			<displayName>Biotech Expansion - Mammalia</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2878084431</steamWorkshopUrl>
-		</li>
-
-		<li>
-			<packageId>biotexpans.mythic</packageId>
-			<displayName>Biotech Expansion - Mythic</displayName>
-			<steamWorkshopUrl>hhttps://steamcommunity.com/sharedfiles/filedetails/?id=2883216840</steamWorkshopUrl>
 		</li>
 		<li>
 			<packageId>redmattis.betterprerequisites</packageId>
@@ -71,9 +86,13 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 		</li>
 		<li>
 			<packageId>sarg.alphagenes</packageId>
+			<displayName>Big and Small Genes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2920751126</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>redmattis.bigsmall.core</packageId>
 			<displayName>Alpha Genes</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
-		</li>
 		<li>
 			<packageId>sarg.alphaanimals</packageId>
 			<displayName>Alpha Animals</displayName>
@@ -128,13 +147,9 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 	</modDependencies>
 	<loadAfter>
 		<li>tdt.core</li>
+
 		<li>sarg.alphagenesvfei</li>
-		<li>sarg.alphabiomes</li>
 		<li>morebiotechstylexenotypes.mod</li>
-		<li>xenofell.hermaphroditegene</li>
-		<li>sarg.alphagenesvfei</li>
-		<li>sarg.alphaanimals</li>
-		<li>sariusskelrets.toxdependency</li>
 		<li>rome.insectoid</li>
 		<li>vanillaracesexpanded.genie</li>
 		<li>vanillaracesexpanded.highmate</li>
@@ -146,11 +161,42 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 		<li>vanillaracesexpanded.waster</li>
 		<li>vanillaracesexpanded.archon</li>
 		<li>vanillaracesexpanded.saurid</li>
+		<li>biotexpans.mammalia</li>
+		<li>biotexpans.mythic</li>
+		<li>redmattis.bigsmall</li>
+		<li>redmattis.undead</li>
+		<li>redmattis.lamiasandothersnakes</li>
+		<li>redmattis.bsslimes</li>
+		<li>redmattis.yokai</li>
+		<li>rooboid.satyr</li>
+		<li>rooboid.faun</li>
+		<li>rooboid.minotaur</li>
+		<li>turnovus.biotech.integratedxenotypes</li>
+		<li>superherogenes.villains</li>
+		<li>sariusskelrets.toxdependency</li>
+		<li>sov.elseudpathf</li>
+		<li>dpxp.exoadapt</li>
+		<li>dpxp.spacers</li>
+
+		<li>blockdude.scrollablegizmos</li>
 	</loadAfter>
 	<loadBefore>
 		<li>co.uk.epicguru.whatsthatmod</li>
 		<li>edb.preparecarefully</li>
+		
+		<li>getdonkedon.psycostgenes</li>
+		<li>rooboid.satyrfaun.expanded</li>
+		<li>rooboid.minotaur.expanded</li>
+		<li>obsidiaexpansion.xenos.arachnas</li>
+		<li>obsidiaexpansion.xenos.tortle</li>
+		<li>obsidiaexpansion.xenos.mothoids</li>
+		<li>dpxp.genecity</li>
+		<li>gwenblanketspecter.hemogenpowers</li>
+		<li>gaaius.morehemogengenes</li>
 	</loadBefore>
 	<incompatibleWith>
+		<li>integratedlovinandfertilitygenes.mod</li>
+		<li>moka.vrephytokinxrbfauns</li>
+		<li>sariusskelrets.dbhgenesforxenos</li>
 	</incompatibleWith>
 </ModMetaData>
