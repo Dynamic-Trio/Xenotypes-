@@ -18,6 +18,11 @@ Firstly, Some recommended mods (in-depth reasoning is in the FAQ on Steam)
 7. BK's Babies can eat Nutrient Paste by Brent Kerman
 8. Sniper Spine by Alite, so your piercing spine is actually, you know, useful.
 
+As well as a few that have nice compat but not xenos:
+1. Wingless Flight by Alite
+2. Laser Eye Genes by Sovereign (for more powerful super-xenos if you have Super Hero Genes installed)
+3. Superhero Genes - Expensive Base (for more intricate super-xenos)
+
 The mods it has extra xenos are: 
 
 </description>
@@ -42,11 +47,6 @@ The mods it has extra xenos are:
 			<packageId>petre27.biotechbalancedcapacitorgenes</packageId>
 			<displayName>Biotech Capacitor Genes - Balanced</displayName>
 			<steamWorkshopUrl>hhttps://steamcommunity.com/sharedfiles/filedetails/?id=2883414707</steamWorkshopUrl>
-		</li>
-		<li>
-			<packageId>sov.homelander</packageId>
-			<displayName>Biotech Gene: Laser-Eyes</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2897565210</steamWorkshopUrl>
 		</li>
 		<li>
 			<packageId>biotexpans.core</packageId>
@@ -79,11 +79,6 @@ The mods it has extra xenos are:
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1841354677</steamWorkshopUrl>
 		</li>
 
-		<li>
-			<packageId>winglessflight.gene</packageId>
-			<displayName>Wingless Flight Gene</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3002447909</steamWorkshopUrl>
-		</li>
 		<li>
 			<packageId>morebiotechstylegenes.mod</packageId>
 			<displayName>More Biotech Style Genes - All in One</displayName>
@@ -153,6 +148,11 @@ The mods it has extra xenos are:
 		<li>dpxp.exoadapt</li>
 		<li>dpxp.spacers</li>
 		<li>hlx.ultratechalteredcarbon</li>
+		<li>superherogenes.villains</li>
+
+		<li>winglessflight.gene</li>
+		<li>sov.homelander</li>
+		<li>superherogenes.expensivebase</li>
 
 		<li>blockdude.scrollablegizmos</li>
 		<li>starkravingsane.meatybabyfood</li>
