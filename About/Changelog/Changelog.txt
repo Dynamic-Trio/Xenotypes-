@@ -14,3 +14,4 @@ Updated description
 Put the FAQ in a discussion
 Put the list of compatible mods in a discussion
 Put the text of both the description, FAQ, and planned compatibility in a file in this mod
+Made Wingless Flight and Laser Eye Genes 100% optional (but highly recomended)
