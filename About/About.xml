@@ -113,6 +113,11 @@ The mods it has extra xenos are:
 			<packageId>xenofell.hermaphroditegene</packageId>
 			<displayName>Hermaphrodite Gene</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2879035868</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>garryflowers.genderedgenes</packageId>
+			<displayName>Gendered Genes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3102649632</steamWorkshopUrl>
 		</li>	
 	</modDependencies>
 	<loadAfter>
