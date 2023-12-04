@@ -119,6 +119,7 @@ The mods it has extra xenos are:
 	</modDependencies>
 	<loadAfter>
 		<li>tdt.core</li>
+		<li>TdT.devOrder</li>
 
 		<li>sarg.alphagenesvfei</li>
 		<li>morebiotechstylexenotypes.mod</li>
@@ -164,8 +165,8 @@ The mods it has extra xenos are:
 		<li>sniperspine.mod</li>
 	</loadAfter>
 	<loadBefore>
-		<li>co.uk.epicguru.whatsthatmod</li>
-		<li>edb.preparecarefully</li>
+		<li>gege.exportedxenotypestoragemodfolder</li>
+		<li>smashphil.xmlpatchhelper</li>
 		
 		<li>getdonkedon.psycostgenes</li>
 		<li>rooboid.satyrfaun.expanded</li>
