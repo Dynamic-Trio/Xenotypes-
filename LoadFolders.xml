@@ -4,7 +4,6 @@
 		<li>/</li>
 		<li>1.4/AddonCore</li>
 		<li IfModActive="morebiotechstylexenotypes.mod">1.4/BiotechStyleXenos</li>
-		<li IfModActive="sarg.alphaanimals">1.4/AlphaAnimals</li>
 		<li IfModActive="sarg.alphagenesvfei">1.4/AG_Mutations</li>
 		<li IfModActive="rome.insectoid">1.4/InsectoidGenes</li>
 	</v1.4>
