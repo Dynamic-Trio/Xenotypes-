@@ -1,4 +1,4 @@
-V 0.0.0
+V 1.0.0
 Initial Upload
 V 0.0.1
 
@@ -7,7 +7,7 @@ Updated Patches
 Removed 1 requirment
 Tried to determine how to make this mod more modular
 
-V 0.0.2
+V 1.0.2
 Removed many requirments
 Made much more modular
 Updated description
@@ -15,3 +15,7 @@ Put the FAQ in a discussion
 Put the list of compatible mods in a discussion
 Put the text of both the description, FAQ, and planned compatibility in a file in this mod
 Made Wingless Flight and Laser Eye Genes 100% optional (but highly recomended)
+Modified Folder structure a whole lot
+Added link to about file (currently only goes to steam page, will one day probaly link to a wiki (most likley using github)
+added version number to about file (to be precise, 1.0.2)
+Removed SuperEngie and DopeUnicorn909 as authors, leaving just The Dynamic Trio and CTH2004. The reason is that, while both of them are part of "the Dynamic Trio", I'm the only one making this specific mod. So, they are included in "The Dynamic Trio" as they do help, but since they aren't making code additions, it's mostly by me right now. Once they have rimworld and we begin to work together on it, they shall be back!
