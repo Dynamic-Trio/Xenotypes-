@@ -1,6 +1,11 @@
 Notes to self:
-1. make compat with Hermaprodite, either via soft or hard dependency
-2. same, but with toxdependency mod
+When making gendered genes needed, the input is:
+
+		<li>
+			<packageId>garryflowers.genderedgenes</packageId>
+			<displayName>Gendered Genes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3102649632</steamWorkshopUrl>
+		</li>	
 
 
 The link text is:

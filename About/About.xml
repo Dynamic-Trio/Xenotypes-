@@ -20,6 +20,8 @@ Firstly, Some recommended mods (in-depth reasoning is in the FAQ on Steam)
 7. BK's Babies can eat Nutrient Paste by Brent Kerman
 8. Sniper Spine by Alite, so your piercing spine is actually, you know, useful.
 
+9. Gendered Genes, which allows for genes to be exclusive to genders, and therefore pawns to have phenotypes (different properties for different genders). Will be a requirment once xenotypes can be made with it and put into mods, so eventually it will be a requirment (most likley a hard compatibility too)
+
 As well as a few that have nice compat but not xenos:
 1. Wingless Flight by Alite
 2. Laser Eye Genes by Sovereign (for more powerful super-xenos if you have Super Hero Genes installed)
@@ -111,11 +113,6 @@ The mods it has extra xenos are:
 			<displayName>Hermaphrodite Gene</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2879035868</steamWorkshopUrl>
 		</li>
-		<li>
-			<packageId>garryflowers.genderedgenes</packageId>
-			<displayName>Gendered Genes</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3102649632</steamWorkshopUrl>
-		</li>	
 	</modDependencies>
 	<loadAfter>
 		<li>tdt.core</li>
