@@ -1,3 +1,8 @@
+		<li>
+			<packageId>garryflowers.genderedgenes</packageId>
+			<displayName>Gendered Genes</displayName>
+			<steamWorkshopUrl></steamWorkshopUrl>
+		</li>	
 Q: CE Compatible?
 A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
 
@@ -24,6 +29,9 @@ A: Rimworld limits many values, so to unlock the full potential of your ultra-xe
 
 Q: My OP xeno is getting killed by another OP xeno, even though the injury that appears after death doesn't look that bad. Why?
 A: Rimworld, for reasons unknown, has a "Lethal Damage Threshold". If a pawn gets that much damage, it doesn't matter what part is destroyed, they die. It could only remove a toe, but they would still die. You can use the mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2657551690]No More Lethal Damage Threshold[/url] by [url=https://steamcommunity.com/profiles/76561198095351210/myworkshopfiles/?appid=294100]Jdalt40[/url] to at least help counteract that, but it still isn't enough sometimes.
+
+Q: Why did you mention [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3102649632]Gendered Genes[/url] by [url=https://steamcommunity.com/profiles/76561198064363306/myworkshopfiles/?appid=294100]GarryFlowers[/url] as a recommended mod and say it will probaly one day be a requriment?
+A: Gendered Genes allows you to make xenos that have different genes on different genders, also known as [url=https://en.wikipedia.org/wiki/Sexual_dimorphism]Sexual Dimorphism[/url]. Right now, making xenos that are in a mod useable isn't possible (or if it is, very counter-intuitive). So, untill then, just [i]highly[/i] recommended.
 
 Q: Why is this incompatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909758050]DBHGenes in xenotypes[/url] by [url=https://steamcommunity.com/profiles/76561199007815912/myworkshopfiles/?appid=294100]SariusSkelrets[/url]?
 A: Simple. Those mods are patches, and this mod will end up overwriting those ones.
