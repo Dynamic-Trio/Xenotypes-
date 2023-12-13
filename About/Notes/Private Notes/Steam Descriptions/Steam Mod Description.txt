@@ -12,14 +12,12 @@ Also,here are some mods that are recommended to go with this mod: [olist]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2934118873]BK's Babies can eat Nutrient Paste[/url] by Brent Kerman
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2976373966]Sniper Spine[/url] by Alite, so your piercing spine is actually, you know, useful.
 
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3102649632]Gendered Genes[/url] by GarryFlowers, for [url=https://en.wikipedia.org/wiki/Sexual_dimorphism]Sexual Dimorphism[/url]. (will be a requirment sometime soon)[/olist]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3102649632]Gendered Genes[/url] by GarryFlowers, for [url=https://en.wikipedia.org/wiki/Sexual_dimorphism]Sexual Dimorphism[/url]. (might be a requirment sometime soon)[/olist]
 
 Some mods that have useful compat, but aren't strictly speaking necessary: [olist]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3002447909]Wingless Flight[/url] by Alite
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2897565210]Biotech: Laser Eye Gene[/url] by Sovereign
 	Used for a very nice gene with Super Hero Genes, so recommended if you install that mod
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3007772504]Superhero Genes - Expensive Base[/url] by Alite
-	It makes the genes from Superhero Genes more expensive, [i]but[/i] also adds a gene that can make the Superhero Gene "dormant". Combined with Genedered Genes... 
 [/olist]
 
 [url=https://steamcommunity.com/workshop/filedetails/discussion/3097961901/4032473196483325095/]Mods with planned integration[/url]
