@@ -27,3 +27,9 @@ Made Publicly Availiable
 SLightly Improved Changelog and put changelog in steam
 Began setting up folder structure for the first 4 planned optional compats
 Removed a no longer needed part of the steam description
+
+V 1.1.0
+Removed multiple requirments
+Made it require my gene mod
+made my gene mod
+fixed an inacurate link
