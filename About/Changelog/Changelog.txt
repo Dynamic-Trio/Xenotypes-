@@ -1,7 +1,8 @@
 V 1.0.0
 Initial Upload
-V 0.0.1
 
+
+V 0.0.1
 Fixed some errors
 Updated Patches
 Removed 1 requirment
@@ -19,3 +20,10 @@ Modified Folder structure a whole lot
 Added link to about file (currently only goes to steam page, will one day probaly link to a wiki (most likley using github)
 added version number to about file (to be precise, 1.0.2)
 Removed SuperEngie and DopeUnicorn909 as authors, leaving just The Dynamic Trio and CTH2004. The reason is that, while both of them are part of "the Dynamic Trio", I'm the only one making this specific mod. So, they are included in "The Dynamic Trio" as they do help, but since they aren't making code additions, it's mostly by me right now. Once they have rimworld and we begin to work together on it, they shall be back!
+
+V 1.0.3
+Added First Xeno
+Made Publicly Availiable
+SLightly Improved Changelog and put changelog in steam
+Began setting up folder structure for the first 4 planned optional compats
+Removed a no longer needed part of the steam description
