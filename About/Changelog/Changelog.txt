@@ -29,7 +29,7 @@ Began setting up folder structure for the first 4 planned optional compats
 Removed a no longer needed part of the steam description
 
 V 1.1.0
-Removed multiple requirments (6 to be precise)
+Removed multiple requirments (7 to be precise)
 Made it require my gene mod
 made my gene mod
 fixed an inacurate link
