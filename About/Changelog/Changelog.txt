@@ -35,3 +35,7 @@ made my gene mod
 fixed an inacurate link
 improved FAQ
 updated description
+
+V 1.1.1
+Slightly modified loading information
+Fixed changelog typo (I accidently put a six in the previous entry. I changed it both here and on steam
