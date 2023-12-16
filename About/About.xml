@@ -94,7 +94,6 @@ As well as a few that have nice compat but not xenos:
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>tdt.core</li>
 		<li>TdT.devOrder</li>
 
 		<li>sarg.alphagenesvfei</li>
