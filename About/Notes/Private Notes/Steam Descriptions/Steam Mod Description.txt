@@ -1,4 +1,8 @@
-This realitivly simple mod is the basis of many enhancments to other mods. It starts with Xenotypes Expanded and Merged, which is designed to patch many xenos to be integrated and more in-line with one another, along with a few miscilaneus patches. The next group of mods slowly but surley enhances the mods, adding in multiple new mods, as well as creating its own genes. The final mod requires all the previous ones, and patches them to work seamlesly together. Perfect, eh?
+This realitivly simple mod is the basis of many enhancments to other mods. It starts with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835]Rimworld Genes Extended
+[/url]. That adds in new genes of my own design, as well as new genes based on other mods. Next, this mod (Xenotypes Expanded and Merged
+), which is designed to patch many xenos to be integrated and more in-line with one another, as well as integrate in my previous mod. It also contains a few miscilaneus patches. The next parts of the series is explained more in Rimworld Genes Extended. But, all together, it makes many mods work seamlesly together! Perfect, eh?
+
+Now, do note that the gene mod is a higher priority for feature-rich content, but this mod will still get [i]lots[/i] of updates!
 
 The mods it has extra xenos are: 
 
@@ -17,7 +21,7 @@ Also,here are some mods that are recommended to go with this mod: [olist]
 Some mods that have useful compat, but aren't strictly speaking necessary: [olist]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3002447909]Wingless Flight[/url] by Alite
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2897565210]Biotech: Laser Eye Gene[/url] by Sovereign
-	Used for a very nice gene with Super Hero Genes, so recommended if you install that mod
+	Used for a very nice gene with Super Hero Genes, so highly recommended
 [/olist]
 
 [url=https://steamcommunity.com/workshop/filedetails/discussion/3097961901/4032473196483325095/]Mods with planned integration[/url]

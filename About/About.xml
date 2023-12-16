@@ -24,9 +24,7 @@ Firstly, Some recommended mods (in-depth reasoning is in the FAQ on Steam)
 
 As well as a few that have nice compat but not xenos:
 1. Wingless Flight by Alite
-2. Laser Eye Genes by Sovereign (for more powerful super-xenos if you have Super Hero Genes installed)
-
-The mods it has extra xenos are: 
+2. Laser Eye Genes by Sovereign (for more powerful super-xenos when combined with Super Hero Genes)
 
 </description>
 
@@ -129,10 +127,10 @@ The mods it has extra xenos are:
 		<li>dpxp.exoadapt</li>
 		<li>dpxp.spacers</li>
 		<li>hlx.ultratechalteredcarbon</li>
+		<li>vanillaracesexpanded.lycanthrope</li>
 
 		<li>winglessflight.gene</li>
 		<li>sov.homelander</li>
-		<li>superherogenesbase.mod</li>
 
 		<li>blockdude.scrollablegizmos</li>
 		<li>starkravingsane.meatybabyfood</li>
@@ -156,7 +154,6 @@ The mods it has extra xenos are:
 		<li>gaaius.morehemogengenes</li>
 	</loadBefore>
 	<incompatibleWith>
-		<li>integratedlovinandfertilitygenes.mod</li>
 		<li>moka.vrephytokinxrbfauns</li>
 		<li>sariusskelrets.dbhgenesforxenos</li>
 	</incompatibleWith>
