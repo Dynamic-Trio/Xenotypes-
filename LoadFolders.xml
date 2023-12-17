@@ -7,5 +7,6 @@
 		<li IfModActive="biotexpans.mythic">1.4/Mods/BiotechExpansion_Mythic</li>
 		<li IfModActive="vanillaracesexpanded.archon">1.4/Mods/VanillaRacesExpanded_Archon</li>
 		<li IfModActive="sarg.alphagenesvfei">1.4/Mods/AlphaGenes_Insectoid</li>
+		<li IfModActive="vanillaracesexpanded.lycanthrope">1.4/Mods/VanillaRacesExpanded_Lycan</li>
 	</v1.4>
 </loadFolders>
