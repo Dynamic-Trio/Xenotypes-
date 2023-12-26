@@ -4,19 +4,23 @@ This realitivly simple mod is the basis of many enhancments to other mods. It st
 
 Now, do note that the gene mod is a higher priority for feature-rich content, but this mod will still get [i]lots[/i] of updates!
 
-The mods it has extra xenos are: 
+A simplified list of xenotypes is over on [url=https://steamcommunity.com/workshop/filedetails/discussion/3097961901/4034727291141397072/]This discussion[/url], whereas the wiki has [url=https://github.com/Dynamic-Trio/More-Xenos/wiki/Created-Xenotypes]An in-depth page[/url] (WIP)
 
-Also,here are some mods that are recommended to go with this mod: [olist] 
+
+Also,here are some mods that are highly recommended, as without them you can't use this mod to it's full extent[olist] 
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1668141382]Un-Limited[/url] by Grimm to allow percentages to go above normal, such as inate armour above 200%.
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566316158]Need Bar Overflow[/url] by AmCh
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2880595382]Limitless Deathrest[/url] by DemonX3 for your extra-OP sangophages
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838035829]Scrollable Gizmos[/url] by 2blockdude
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2998479989]Meaty Baby Food[/url] by StarkRavingSane
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2657551690]No More Lethal Damage Threshold[/url] by Jdalt40
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2934118873]BK's Babies can eat Nutrient Paste[/url] by Brent Kerman
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2976373966]Sniper Spine[/url] by Alite, so your piercing spine is actually, you know, useful.
+[/olist]
 
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3102649632]Gendered Genes[/url] by GarryFlowers, for [url=https://en.wikipedia.org/wiki/Sexual_dimorphism]Sexual Dimorphism[/url]. (might be a requirment sometime soon)[/olist]
+Also, there are some mods that add things that work great in tandom with this mod, the ones I know of are bellow[olist]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2880595382]Limitless Deathrest[/url] by DemonX3 for your extra-OP sangophages
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3102649632]Gendered Genes[/url] by GarryFlowers, for [url=https://en.wikipedia.org/wiki/Sexual_dimorphism]Sexual Dimorphism[/url]. (might be a requirment sometime soon)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2976373966]Sniper Spine[/url] by Alite, so your piercing spine is actually, you know, useful.
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2934118873]BK's Babies can eat Nutrient Paste[/url] by Brent Kerman
+[/olist]
 
 Some mods that have useful compat, but aren't strictly speaking necessary: [olist]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3002447909]Wingless Flight[/url] by Alite
@@ -27,3 +31,5 @@ Some mods that have useful compat, but aren't strictly speaking necessary: [olis
 [url=https://steamcommunity.com/workshop/filedetails/discussion/3097961901/4032473196483325095/]Mods with planned integration[/url]
 
 [url=https://steamcommunity.com/workshop/filedetails/discussion/3097961901/4032473196483048880/]FAQ (with some sarcasm, jokes, and attitude. Hopefully the answers make you smile and laugh (don't care if it's with or at me, laughters laughter) as much as I did while writing them!)[/url]
+
+Finally, there is a changelog right [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3097961901]Here[/url]

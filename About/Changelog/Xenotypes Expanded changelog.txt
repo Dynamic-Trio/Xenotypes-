@@ -38,4 +38,13 @@ updated description
 
 V 1.1.1
 Slightly modified loading information
-Fixed changelog typo (I accidently put a six in the previous entry. I changed it both here and on steam
+Fixed changelog typo (I accidently put a six in the previous entry. I changed it both here and on steam)
+Added Superherogenes- Villans and Steryotypes as a requirment (will be removed once my mod expanding Superhero Genes is made)
+Added ideology as a requirment
+Added texture folder. Not used yet, but nice to have, just in case...
+Improved steam description
+made a list of xenos (well, a place for it)
+linked changelog
+linked github xeno list
+improved folder structure
+fixed changelog name
