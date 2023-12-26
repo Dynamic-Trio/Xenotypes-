@@ -38,10 +38,6 @@ Also, there are some that are very useful, but not truly necessary (still highly
 			<packageId>ludeon.rimworld.royalty</packageId>
 			<displayName>Royalty</displayName>
 		</li>
-		<li>
-			<packageId>ludeon.rimworld.ideology</packageId>
-			<displayName>Ideology</displayName>
-		</li>
 		
 		<li>
 			<packageId>tdt.core</packageId>
@@ -96,11 +92,6 @@ Also, there are some that are very useful, but not truly necessary (still highly
 			<packageId>xenofell.hermaphroditegene</packageId>
 			<displayName>Hermaphrodite Gene</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2879035868</steamWorkshopUrl>
-		</li>
-		<li>
-			<packageId>superherogenes.villains</packageId>
-			<displayName>Superhero Genes - Villains and Stereotypes</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3088653906</steamWorkshopUrl>
 		</li>
 
 	</modDependencies>

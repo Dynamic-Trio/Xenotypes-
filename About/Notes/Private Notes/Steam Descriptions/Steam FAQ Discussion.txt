@@ -2,12 +2,6 @@
 [*]Q: CE Compatible?
 A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
 
-[*]Q: Why do you require Ideology?
-A: For a multitude of reasons, including the issues of transitive soft compatibilities (modifiying another mods soft compatibility on ideaology, if that mods a soft compatibility). But, ultimately, its because, for now, it's more trouble than it's worth. As I get better with moding, and/ or this mod grows, that might change
-
-[*]Q: Why does this need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3088653906]Superhero Genes: Villans and Steryotypes[/url]?
-A: Well, a lot of my ideas require Superhero Genes Base, as well as the built-in xenotypes. Thing is, those xenotypes are a seperate mod. So, the easiest soloution is: use that mod!
-
 [*]Q: I have increased my pawns max nutrition, but it doesn't seem to have much effect. Why?
 A: After a certain point, Rimworld has issues going above certain values with stats. To counteract it, I recommend using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566316158]Need Bar Overflow[/url] by [url=https://steamcommunity.com/profiles/76561198134085825/myworkshopfiles/?appid=294100]AmCh[/url]
 
