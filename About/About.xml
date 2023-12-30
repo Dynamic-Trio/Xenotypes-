@@ -62,6 +62,21 @@ Also, there are some that are very useful, but not truly necessary (still highly
 			<displayName>Biotech Expansion - Core</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2884018485</steamWorkshopUrl>
 		</li>
+		<li>
+			<packageId>morebiotechstylegenes.mod</packageId>
+			<displayName>More Biotech Style Genes - All in One</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>ebsg.aio</packageId>
+			<displayName>Expanded Biotech Style Genes - All in One</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3020821838</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>ebsg.archite</packageId>
+			<displayName>Expanded Archite Genes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3039936922</steamWorkshopUrl>
+		</li>
 
 		<li>
 			<packageId>redmattis.bigsmall.core</packageId>

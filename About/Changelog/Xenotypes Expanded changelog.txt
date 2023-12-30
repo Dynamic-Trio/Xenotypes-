@@ -46,3 +46,6 @@ linked changelog
 linked github xeno list
 improved folder structure
 fixed changelog name
+
+V 1.1.2
+As I removed the EBSG mods as a requirment from my gene mod, added them as a requirment here (might change, unlikley)
