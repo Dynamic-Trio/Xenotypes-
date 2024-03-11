@@ -49,3 +49,6 @@ fixed changelog name
 
 V 1.1.2
 As I removed the EBSG mods as a requirment from my gene mod, added them as a requirment here (might change, unlikley)
+
+V 2.0.0
+Depracated Mod, now (in the next update) integrated into my gene mod

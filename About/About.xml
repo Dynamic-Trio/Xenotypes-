@@ -1,14 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Xenotypes Expanded and Merged</name>
+	<name>OBSOLETE: Xenotypes Expanded and Merged</name>
 	<author>The Dynamic Trio, CTH2004</author>
 	<packageId>TdT.moreXenos</packageId>
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
-	<url>https://github.com/Dynamic-Trio/More-Xenos/wiki</url>
-	<modVersion>1.1.1</modVersion>
-	<description>This realitivly simple mod does a couple things.
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</url>
+	<modVersion>2.0.0</modVersion>
+	<description>
+	WARNING, OUTDATED!!!!
+	this mod has been integrated into Genes Extended. While this mod still works, it is redundent, and in the future might cause issues.
+	
+	Onto the old description: 	
+	This realitivly simple mod does a couple things.
 First it adds in some nice (in my opinion at least) xenotypes straight off the bat.
 Next, it patches the xenos of other mods, to (hopefully) make them more seamless
 Finally, it adds some new basic xenos to different mods, so if you have mod "x" installed, new xenos appear!
